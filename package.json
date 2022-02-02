@@ -2,6 +2,12 @@
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Rojil Shrestha",
+    "email": "rsshrestha23@gmail.com",
+    "url": "http://shrestharojil.com.np/"
+  },
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
